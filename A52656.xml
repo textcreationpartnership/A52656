@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative or journal of the proceedings of their Excellencies, the Right Honourable the Lord Holles and the Lord Coventry appointed by His Majesty of Great Britain to be his ambassasors extraordinary and plenipotentiaries for the treaty held at Breda with the ambassadors of the French King, the King of Denmark and the States General of the United Provinces / by a person of quality concerned in this embassy.</title>
+            <author>Person of quality concerned in this embassy.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52656</idno>
+            <idno type="STC">Wing N230</idno>
+            <idno type="STC">ESTC R32149</idno>
+            <idno type="EEBO-CITATION">12335038</idno>
+            <idno type="OCLC">ocm 12335038</idno>
+            <idno type="VID">59760</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59760)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1019:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative or journal of the proceedings of their Excellencies, the Right Honourable the Lord Holles and the Lord Coventry appointed by His Majesty of Great Britain to be his ambassasors extraordinary and plenipotentiaries for the treaty held at Breda with the ambassadors of the French King, the King of Denmark and the States General of the United Provinces / by a person of quality concerned in this embassy.</title>
+                  <author>Person of quality concerned in this embassy.</author>
+               </titleStmt>
+               <extent>31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Newcomb and are to be sold by Robert Pawlet ...,</publisher>
+                  <pubPlace>In the Savoy [London] :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Holles, Denzil Holles, --  Baron, 1599-1680.</term>
+               <term>Coventry, William, --  Sir, 1628?-1686.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59760:1" rendition="simple:additions"/>
+            <p>A Narrative, OR JOURNAL Of the Proceedings of their Ex<g ref="char:EOLhyphen"/>cellencies, the Right Honourable the Lord <hi>HOLLES,</hi> AND THE Lord <hi>COVENTRY,</hi> Appointed by His Majeſty of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi> to be his Ambaſſadors Extraordinary, and Plenipotentiaries for the Treaty held at BREDA, With the Ambaſſadors of the <hi>French</hi> King, the King of <hi>Denmark,</hi> and the States General of the <hi>United Provinces.</hi>
+            </p>
+            <p>
+               <hi>By a Perſon of Quality, concerned in this Ambaſſy.</hi>
+            </p>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>Tho. Newcomb,</hi> and are to be ſold by <hi>Robert Pawlet</hi> at the Bible in <hi>Chariety-lane,</hi> near <hi>Serjeants-Inne,</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59760:2"/>
+            <pb n="3" facs="tcp:59760:2"/>
+            <head>A Narrative, or Journal of the Pro<g ref="char:EOLhyphen"/>ceedings of their Excellencies, the Right Honourable the Lord <hi>Holles,</hi> and the Lord <hi>Coventry,</hi> appointed by his Majesty of <hi>Great Britain,</hi> to be his Ambaſſadors Extraordinary, and Plenipotentiaries for the Trea<g ref="char:EOLhyphen"/>ty held at <hi>Breda,</hi> with the Ambaſ<g ref="char:EOLhyphen"/>ſadors of the <hi>French</hi> King, the King of <hi>Denmark,</hi> and the States General of the <hi>United Provinces.</hi>
+            </head>
+            <p>BEing <hi>Monday,</hi>
+               <note place="margin">
+                  <hi>April</hi> 29. 1667.</note> their Excellen<g ref="char:EOLhyphen"/>cies the Engliſh Ambaſſadors weighed Anchor from the <hi>Hope.</hi> His Ex<g ref="char:EOLhyphen"/>cellency
+<pb n="4" facs="tcp:59760:3"/>the Lord <hi>Holles</hi> in the <hi>Kent</hi> Fregat, commanded by Captain <hi>Silver;</hi> His Excel<g ref="char:EOLhyphen"/>lency the Lord <hi>Coventry</hi> on board the <hi>Amity,</hi> commanded by Captain <hi>Poyn;</hi> both Ships carrying white Flags in the Main top. From the <hi>Hope</hi> they fell down to the <hi>Bnoy</hi> in the <hi>Nore,</hi> and ſo to the <hi>Gunfleet;</hi> from whence they weighed again on <hi>Thurſday</hi> Follow<g ref="char:EOLhyphen"/>ing, being the ſecond of <hi>May,</hi> about two in the morning, having a very excellent Paſ<g ref="char:EOLhyphen"/>ſage.</p>
+            <p>
+               <hi>May</hi> 2. About eight in the evening, their Excellencies arrived before <hi>Fluſhing,</hi> about five leagues off the Coaſt, and there made up to them a Dogger-boat, ſent out by order of the States to attend their Excellencies ap<g ref="char:EOLhyphen"/>proach, and to give notice of the ſame, which the Dogger-boat did by ſhooting of ſeveral Guns: Upon which ſignal there preſently hafted out ſix noble Yachts or Pleaſure-boats, two belonging unto <hi>Holland,</hi> two unto <hi>Zea<g ref="char:EOLhyphen"/>land,</hi> one to the <hi>States General,</hi> and one to the <hi>Eaſt India</hi> Company; which met their Excellencies a league from ſhore, and at their,
+<pb n="5" facs="tcp:59760:3"/>firſt meeting there paſſed great Acclamations of joy; The Yachts lowred their Topſails, their Trumpets ſounded, and the firſt ſalute of their Trumpets we obſerved to be the Tune of <hi>The King ſhall enjoy his own again.</hi> Preſently after, there came on board their Excellencies two Gentlemen, ſent by Mon<g ref="char:EOLhyphen"/>ſieur <hi>Seneſchy,</hi> a Colonel, and belonging to <hi>Zealand,</hi> the chief perſon appointed by the States, to complement and conduct their Excellencies to <hi>Breda;</hi> which two Gentle<g ref="char:EOLhyphen"/>men did in the name of the States, and par<g ref="char:EOLhyphen"/>ticularly of thoſe of the Province of <hi>Zealand,</hi> and of the Deputies of <hi>Middleburg,</hi> congratu<g ref="char:EOLhyphen"/>late their Excellencies ſafe arrival, and further acquainted their Excellencies that there were ſeveral perſons of Quality on board thoſe Yachts who came to wait upon their Excel<g ref="char:EOLhyphen"/>lencies, and were ready to receive them into the Yachts if their Excellencies ſo pleaſed. Their Excellencies returned anſwer, That it was ſo late, it would be inconvenient for them to remove that night, and therefore they-thought better to deferr it until nine or
+<pb n="6" facs="tcp:59760:4"/>ten of the Clock next morning. In this confe<g ref="char:EOLhyphen"/>rence thoſe Gentlemen taking ſome further occaſion to expreſs the particular reſpects of the States of <hi>Zealand</hi> to the Perſon and Inte<g ref="char:EOLhyphen"/>reſt of his Majeſty of <hi>Great Britain,</hi> His Excel<g ref="char:EOLhyphen"/>lency the Lord <hi>Holles</hi> replied, That His Ma<g ref="char:EOLhyphen"/>jeſty alſo particularly deſired to ſatisfie and aſſure thoſe of <hi>Zealand,</hi> that he highly owned their Reſpects, and would be alſo ready to expreſs a ſenſibleneſs and ſuitable good will to them when any occaſion ſhould preſent it ſelf: After which thoſe Gentlemen abun<g ref="char:EOLhyphen"/>dantly ſatisfied, departed with much cheer<g ref="char:EOLhyphen"/>fulneſs.</p>
+            <p>
+               <hi>May</hi> 3. Colonel <hi>Seneſchy,</hi> attended by about a dozen Gentlemen, came on board their Excellencies, and did in the name of the States, and the reſt, congratulate their ſafe arrival, and acquainted them, That he was commanded to wait on their Excellencies to <hi>Breda:</hi> and about two of the Clock in the Afternoon their Excellencies went on board the Yachts, and anchored that night before the <hi>Rammekins.</hi>
+            </p>
+            <pb n="7" facs="tcp:59760:4"/>
+            <p>At their going off in their Yachts from before <hi>Fluſhing,</hi> they were very reſpectfully ſaluted by the Great Guns from the Town, and from all the Ships of Note in the Road, and alſo by all the Forts and Block-houſes on the River-ſide.</p>
+            <p>
+               <hi>May</hi> 4. <hi>Saturday,</hi> At night their Excel<g ref="char:EOLhyphen"/>lencies arrived at <hi>Terheyd,</hi> a ſmall Fort, half a league from <hi>Breda.</hi>
+            </p>
+            <p>Their Excellencies were treated very ho<g ref="char:EOLhyphen"/>nourably all the way, <hi>&amp;c.</hi> Monſieur <hi>Seneſchy</hi> declaring that the States had allowed Eighteen hundred pounds <hi>ſterling</hi> for their Entertain<g ref="char:EOLhyphen"/>ment.</p>
+            <p>
+               <hi>May</hi> 5. Being <hi>Sunday,</hi> Monſieur <hi>Courtin,</hi> one of the <hi>French</hi> Ambaſſadors, ſent a Gen<g ref="char:EOLhyphen"/>tleman to congratulate their Excellencies ſafe arrival.</p>
+            <p>
+               <hi>May</hi> 6. In the morning, Monſieur <hi>Courtin</hi> came himſelf, <hi>incognito,</hi> to give their Excel<g ref="char:EOLhyphen"/>lencies a viſit; After which, his Excellency the Lord <hi>Coventry</hi> departed <hi>incognito</hi> to <hi>Breda.</hi>
+            </p>
+            <p>At <hi>Breda</hi> there were two houſes adjoining
+<pb n="8" facs="tcp:59760:5"/>together, taken up for their Excellencies and their Families, and the walls broak through from one houſe unto the other for their mu<g ref="char:EOLhyphen"/>tual Entercourſe.</p>
+            <p>
+               <hi>May</hi> 7. In the morning, a Gentleman came from Monſieur <hi>Courtin</hi> with his Coach, unto his Excellency the Lord <hi>Holles</hi> (his Excel<g ref="char:EOLhyphen"/>lencies own Coach being not yet ready) to bring him <hi>incognito</hi> to <hi>Breda;</hi> But his Excel<g ref="char:EOLhyphen"/>lency with a return of much reſpect excuſed himſelf from making uſe of it.</p>
+            <p>On the ſame day his Excellency the Lord <hi>Holles,</hi> upon the invitation of the Gover<g ref="char:EOLhyphen"/>nour of <hi>Terheyd,</hi> removed on ſhore to lie in the Fort.</p>
+            <p>
+               <hi>May</hi> 8. His Excellency was Treated by Monſieur <hi>Seneſchy</hi> on board the Yachts; and</p>
+            <p>
+               <hi>May</hi> 9. His Excellency entertained Mon<g ref="char:EOLhyphen"/>ſieur <hi>Seneſchy,</hi> and the Gentlemen with him on ſhore in the Fort.</p>
+            <p>
+               <hi>May</hi> 10. His Excellencies Houſe in <hi>Breda</hi> being in ſome meaſure fitted for his Recep<g ref="char:EOLhyphen"/>tion, he removed <hi>incognito</hi> to <hi>Breda.</hi>
+            </p>
+            <p>After their Excellencies arrival at <hi>Breda,</hi>
+               <pb n="9" facs="tcp:59760:5"/>there were already arrived Monſieur D' <hi>E<g ref="char:EOLhyphen"/>ſtrade,</hi> and Monſieur <hi>Courtin,</hi> Ambaſſadors for <hi>France;</hi> Monſieur <hi>Clinenberg</hi> and Mon<g ref="char:EOLhyphen"/>ſieur <hi>Chariſius,</hi> Plenipotentiaries for <hi>Den<g ref="char:EOLhyphen"/>mark;</hi> and Monſieur <hi>Beverningk,</hi> Monſieur D' <hi>Huybert,</hi> and Monſieur <hi>Jongeſtal,</hi> Pleni<g ref="char:EOLhyphen"/>potentiaries for the States.</p>
+            <p>
+               <hi>May</hi> 11. Monſieur D' <hi>Eſtrade</hi> gave their Excellencies a private viſit; after which, their Excellencies prepared for their publick En<g ref="char:EOLhyphen"/>try: In order to which,</p>
+            <p>
+               <hi>May</hi> 14. On <hi>Tueſday,</hi> Their Excellencies, with their retinue, went <hi>incognito</hi> out of <hi>Bre<g ref="char:EOLhyphen"/>da</hi> to the Speele-houſe, a pleaſant ſummer houſe in the Prince of <hi>Oranges</hi> Park, ſome di<g ref="char:EOLhyphen"/>ſtance from the Town; and there ſpending ſome time till Monſieur <hi>Valkenhaen</hi> Lievte<g ref="char:EOLhyphen"/>nant Governour of the Town came to wait upon their Excellencies; Sir <hi>George Charnock</hi> the Knight Martial immediately by their Ex<g ref="char:EOLhyphen"/>cellencies Commands, diſpoſed the train into this Order. Firſt rode eight Grooms on Horſeback, after them eight Pages, all in the Ambaſſadors rich Livery; then four of
+<pb n="10" facs="tcp:59760:6"/>his Majeſties Trumpeters, next rode their Ex<g ref="char:EOLhyphen"/>cellencies two Gentlemen of the Horſe, then immediately next before their Excellencies own Coach, rode the Knight-Marſhal to the Ambaſſie, bearing in his hand a Richly guilded Batton or Staff, the Enſign of his Office; his Horſe attended on each ſide with Footmen in the Ambaſſadors Liveries, then followed his Excellencie the Lord <hi>Holles</hi> his firſt Coach which was both in it ſelf, and all the Furni<g ref="char:EOLhyphen"/>ture of the Horſes exceeding Rich and Roy<g ref="char:EOLhyphen"/>al. In this Coach rode their Excellencies, accompanied with <hi>Monſieur</hi> the Marqueſs of <hi>Hauterive</hi> Governor of <hi>Breda,</hi> and <hi>Monſieur Seneſchy,</hi> and ſeveral others, who are Sons and Brothers to ſome of the Nobilitie, alſo <hi>Nicholas Morrice</hi> 
+               <abbr>Eſq</abbr> Son to the Right Ho<g ref="char:EOLhyphen"/>norable Sir <hi>William Morrice</hi> Principal Secre<g ref="char:EOLhyphen"/>tary of State, who was by his Majeſties ſpe<g ref="char:EOLhyphen"/>cial appointment Secretarie unto the Ambaſ<g ref="char:EOLhyphen"/>ſie, a Gentleman of eminent Deſert, parti<g ref="char:EOLhyphen"/>cularly for the diligent and prudent diſcharge of his imployment in this Affair. The ſaid Coach was attended on each ſide by the
+<pb n="11" facs="tcp:59760:6"/>groſs of the Footmen, being near Fifty in number, in very coſtly and rich Liveries.</p>
+            <p>Next followed his Excellencie the Lord <hi>Coventries</hi> firſt Coach, which was alſo of a ſuitable Magnificence.</p>
+            <p>Next followed the Lord <hi>Holles</hi> his ſecond Coach, and then the Lord <hi>Coventries</hi> ſecond Coach, in all which Coaches their Excellen<g ref="char:EOLhyphen"/>cies were alſo attended by divers other per<g ref="char:EOLhyphen"/>ſons of Honor and Quality.</p>
+            <p>After that went the Governors of the Town, then the Coaches of the ſeveral No<g ref="char:EOLhyphen"/>bilitie and Gentry about the Town.</p>
+            <p>There were drawn up in the Park three Troops of Horſe to attend their Excellencies: The firſt of which upon their Excellencies moving by (after having very reſpectfully ſaluted them) advanced and led the way at the head of all out of the Park.</p>
+            <p>The other two Troops ſtood ſtill while the whole Train paſſed by, all of which they with like reſpect ſaluting, cloſed in after and brought up the rear. At the head of theſe was <hi>Monſieur Ouderkirk</hi> Captain of one of the
+<pb n="12" facs="tcp:59760:7"/>Troops, and Gentleman of the Horſe to the Prince of <hi>Orange,</hi> a brave young <hi>Cavalier,</hi> and Brother to the Right Honorable the Lord <hi>Arlingtons</hi> Lady.</p>
+            <p>At their Excellencies entrance into the Town, they were received by <hi>Monſieur</hi> the Marqueſs <hi>d'Hauterive</hi> the Governor, with all poſſible demonſtrations of Kindneſs and Re<g ref="char:EOLhyphen"/>ſpects, to which their Excellencies having made ſuitable Returns, invited him into their own Coach, which he accepted ac<g ref="char:EOLhyphen"/>cordingly.</p>
+            <p>There was all the Souldiery in the Town amounting to about Two thouſand Foot be<g ref="char:EOLhyphen"/>ſides the reſt of the Horſe diſpoſed at the ends of all Streets they paſſed by. And the whole great Market being the princi<g ref="char:EOLhyphen"/>pal place for Beauty and Largeneſs in the Town, was filled with Horſe and Foot, lea<g ref="char:EOLhyphen"/>ving onely room for the Coaches to paſs. At this place appeared the greateſt State and Splendor of the Solemnitie: during the whole time of which the great Guns from all ſides of the Town liberally diſcharged,
+<pb n="13" facs="tcp:59760:7"/>what contribution they owed to ſo joyful an appearance.</p>
+            <p>It is not conceivable how the ſpectators, (who in throngs filled all Windows and Streets) were transported with admiration and con<g ref="char:EOLhyphen"/>tent, inſomuch that from the unanimous Con<g ref="char:EOLhyphen"/>tent of all their expreſſions; it may be tru<g ref="char:EOLhyphen"/>ly affirmed that nothing of this nature hath ever been performed with more advantage to the Honour of the <hi>Engliſh</hi> Nation.</p>
+            <p>Being arrived at their own Houſe, they found a very ſplendid Entertainment pro<g ref="char:EOLhyphen"/>vided for their Excellencies and their Re<g ref="char:EOLhyphen"/>tinue by the <hi>States</hi> appointment, where Monſieur the Marqueſs <hi>d'Hanterive,</hi> Monſieur <hi>Valkenhaen,</hi> Monſieur <hi>Ouder kirk</hi> and Monſieur <hi>Seneſchy</hi> with the Noble perſons that ac<g ref="char:EOLhyphen"/>companied their Excellencies, and thoſe who attended them in the ſeveral Coaches did all Dine in their Excellencies Preſence.</p>
+            <p>
+               <hi>May</hi> 15. The <hi>French</hi> Ambaſſadors did in the morning give their Excellencies a pub<g ref="char:EOLhyphen"/>lique viſit, and in the afternoon the <hi>Daniſh</hi> Plenipotentiaries gave their Excellencies a viſit.</p>
+            <pb n="14" facs="tcp:59760:8"/>
+            <p>
+               <hi>May.</hi> 16. The <hi>French</hi> Ambaſſadors did again in the morning give their Excellen<g ref="char:EOLhyphen"/>cies a publique viſit, and in the afternoon their Excellencies gave the <hi>French</hi> Ambaſ<g ref="char:EOLhyphen"/>ſadors a publique viſit.</p>
+            <p>
+               <hi>May.</hi> 17. The <hi>Swediſh</hi> Ambaſſadors (ha<g ref="char:EOLhyphen"/>ving not yet made their publique Entrie) gave their Excellencies a viſit <hi>incognite.</hi> And after them the Miniſters of the Town gave a viſit, and the ſame morning their Excellencies viſited the <hi>Daniſh</hi> Plenipotentiaries. In the af<g ref="char:EOLhyphen"/>ternoon the <hi>States</hi> Plenipotentiaries viſited their Excellencies.</p>
+            <p>
+               <hi>May</hi> 18. The Burgomaſters of the Town wait<g ref="char:EOLhyphen"/>ed upon the Ambaſſadors. The ſame morning their Excellencies viſited the <hi>States</hi> Plenipo<g ref="char:EOLhyphen"/>tentiaries. In the afternoon their Excellencies viſited Monſiour <hi>d'Hanterive</hi> the Governor.</p>
+            <p>
+               <hi>May</hi> 19. Their Excellencies viſited the <hi>Swediſh</hi> Ambaſſadors, and ſome of the fol<g ref="char:EOLhyphen"/>lowing days were likewiſe ſpent in viſits.</p>
+            <p>The place appointed for the Treaty was at the Caſtle.</p>
+            <p>In the Caſtle there was a large Room
+<pb n="15" facs="tcp:59760:8"/>next unto the great Hall richly hung with Tapeſtry, and in the middle of the Room was a round Table covered over with green Velvet, over which hung a Canopie of green Velvet, over-ſhadowing all the Table, about which were placed many Chairs and Cuſhions ſuitable; the floor of the Room under the Table and round about the ſame was covered alſo with green Velvet.</p>
+            <p>To this Room there were three doors, one opening into the great Hall, at the other end of the Room was another door, and the third door was on the ſide of the Room next to the Gallerie.</p>
+            <p>However, the Ambaſſadors not finding it convenient to make uſe of this Room for their ordinary meeting together, made choice of ſeveral diſtinct appartments; the the <hi>Swediſh</hi> Mediators paſſing betwixt from one to the other as there was occaſion com<g ref="char:EOLhyphen"/>municated their ſeveral Propoſals, Objecti<g ref="char:EOLhyphen"/>ons, and all of that Nature relating to the Negotiation; which manner of proceeding was obſerved during the whole Treaty.</p>
+            <pb n="16" facs="tcp:59760:9"/>
+            <p>
+               <hi>May</hi> 25. Being <hi>Saturday,</hi> The reſpective Ambaſſadors and Plenipotentiaries, accord<g ref="char:EOLhyphen"/>ing to appointment came to their ſeveral ap<g ref="char:EOLhyphen"/>partments in the Caſtle; and the Treaty was begun in the method aforeſaid.</p>
+            <p>During their whole reſidence at <hi>Breda,</hi> there paſſed not at any time any diſreſpect between the perſons intereſſed in the Treaty, nor any of their followers or Retinue, but every thing carried on with all mutual civi<g ref="char:EOLhyphen"/>lities and kindneſs.</p>
+            <p>After the firſt general meeting on the 25th of <hi>May,</hi> there was a diſcontinuance of all Treaty and Tranſactions until the three and twentieth day of <hi>June,</hi> and during the ſaid time very few, if any viſits were made.</p>
+            <p>
+               <hi>June</hi> 23. In the morning their Excellencies the <hi>Engliſh</hi> Ambaſſadors, viſited the <hi>Swediſh</hi> Ambaſſadors.</p>
+            <p>
+               <hi>June</hi> 25. The <hi>French</hi> Ambaſſadors viſited their Excellencies, and were in conference with them above three hours. And in the afternoon of the ſame day the <hi>Swediſh</hi> Am<g ref="char:EOLhyphen"/>baſſadors viſited their Excellencies, and
+<pb n="17" facs="tcp:59760:9"/>were in conference with them above three hours.</p>
+            <p>
+               <hi>June</hi> 26. Their Excellencies viſited the <hi>French</hi> and <hi>Swediſh</hi> Ambaſſadors, and were with them all the Afternoon.</p>
+            <p>
+               <hi>June</hi> 27. All the Reſpective Ambaſſadors and Plenipotentiaries came to their ſeveral appartments in the Caſtle about four of the Clock in the Afternoon, and continued their Treaty till about nine in the evening, in man<g ref="char:EOLhyphen"/>ner as before.</p>
+            <p>
+               <hi>June</hi> 28. The Ambaſſadors and Plenipo<g ref="char:EOLhyphen"/>tentiaries came to their ſeveral appartments in the Caſtle about five a Clock, and con<g ref="char:EOLhyphen"/>tinued their Treaty till about nine in the E<g ref="char:EOLhyphen"/>verning, in manner as before.</p>
+            <p>
+               <hi>June</hi> 29. The Ambaſſadors and Plenipo<g ref="char:EOLhyphen"/>tentiaries came again to their ſeveral appart<g ref="char:EOLhyphen"/>ments in the Caſtle at nine in the morning, and continued on their Treaty till about one of the Clock in manner as before; and they came again in the Afternoon about four, and continued the Treaty till about nine.</p>
+            <pb n="18" facs="tcp:59760:10"/>
+            <p>
+               <hi>Sunday, June</hi> 30. The ſeveral Ambaſſa<g ref="char:EOLhyphen"/>dors and Plenipotentiaries came again to their ſeveral appartments about five of the Clock in the Afternoon, and continued their Treaty till about nine at night; In which time they concluded upon the generality of the Articles of the Peace: Onely ſome particulars yet remaining, in which it was fit his Maje<g ref="char:EOLhyphen"/>ſties pleaſure ſhould be farther known before the abſolute compleating of them. It was unanimouſly defired by all the Ambaſſadors, that his Excellency the Lord <hi>Coventry</hi> would take the pains upon himſelf of a journey to <hi>England</hi> for that purpoſe, as alſo to preſent His Majeſty with the accompt of what was al<g ref="char:EOLhyphen"/>ready by all their Conſents compleated. Up<g ref="char:EOLhyphen"/>on which earneſt deſire of theirs, his Excellen<g ref="char:EOLhyphen"/>cy the Lord <hi>Coventry</hi> did accordingly under<g ref="char:EOLhyphen"/>take the journey, which he ſet out upon the ſecond of <hi>July,</hi> and returned with His Maje<g ref="char:EOLhyphen"/>ſties Reſolution and Approbation the 17<hi rend="sup">th</hi> of the ſame Month.</p>
+            <p>During this Treaty at the Caſtle, the <hi>French</hi> and <hi>Daniſh</hi> Ambaſſadors came ſome
+<pb n="19" facs="tcp:59760:10"/>times to the appartment of their Excellen<g ref="char:EOLhyphen"/>cies the <hi>Engliſh</hi> Ambaſſadors, but the <hi>Dutch</hi> Ambaſſadors came not till the ſaid cloſe of the Treaty.</p>
+            <p>
+               <hi>July</hi> 18. All the reſpective Ambaſſadors came to viſit their Excellencies, after the return of his Excellency the Lord <hi>Coven<g ref="char:EOLhyphen"/>try.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 19. All the reſpective Ambaſſadors and Plenipotentiaries came to their ſeveral appartments in the Caſtle at nine in the morning, and ſtayed there till twelve at noon.</p>
+            <p>
+               <hi>July</hi> 20. They came likewiſe to their ſe<g ref="char:EOLhyphen"/>veral appartments in the Caſtle about five in the Afternoon, and continued there till eight.</p>
+            <p>
+               <hi>Sunday, July</hi> 21. They came again to their ſeveral appartments in the Caſtle at five, and continued till paſt nine, and then ſigned and ſealed in their ſeveral appart<g ref="char:EOLhyphen"/>ments the Articles of Peace; and preſently after came together into one room, and mu<g ref="char:EOLhyphen"/>tually enterchanged the ſame. Immediately
+<pb n="20" facs="tcp:59760:11"/>hereupon, ſome ſignal being given, all the Cannon of the Caſtle were diſcharged, and ſo from Fort to Fort round the Town; After which, the Ambaſſadors and Plenipotenti<g ref="char:EOLhyphen"/>aries adjourned any further meeting until ſuch time as the Ratifications from the ſe<g ref="char:EOLhyphen"/>veral Princes might in all probability be re<g ref="char:EOLhyphen"/>turned.</p>
+            <p>At their going out of the Caſtle, this night there were ſeveral Troops of Horſe, and ſe<g ref="char:EOLhyphen"/>veral Foot Companies placed in the High<g ref="char:EOLhyphen"/>ſtreet; through which the Ambaſſadors Coaches returning, there were great expreſ<g ref="char:EOLhyphen"/>ſions of joy, the Drums beating, Colours flying, Trumpets ſounding, and Diſcharging their Piſtols and Muskets.</p>
+            <p>
+               <hi>July</hi> 23. The Honourable Sir <hi>John Coven<g ref="char:EOLhyphen"/>try,</hi> Knight of the <hi>Bath,</hi> Nephew to his Excellency the Lord <hi>Coventry,</hi> had all along attended the Ambaſſy, and omitted no ex<g ref="char:EOLhyphen"/>pence to add to the Grandeur and honour of the Ambaſſy, being very noble in Equi<g ref="char:EOLhyphen"/>page, ſuitable to his quality; He was after diſpatched for <hi>England</hi> by their Excellencies,
+<pb n="21" facs="tcp:59760:11"/>unto his Majeſtie for his Majeſties Ratifica<g ref="char:EOLhyphen"/>tion of the Peace.</p>
+            <p>
+               <hi>July</hi> 24. Their Excellencies the <hi>Engliſh</hi> Ambaſſadors dined with the <hi>Daniſh</hi> Plenipo<g ref="char:EOLhyphen"/>tentiaries.</p>
+            <p>
+               <hi>July</hi> 25. The <hi>Daniſh</hi> Plenipotentiaries and the Governor of <hi>Breda</hi> dined with their Ex<g ref="char:EOLhyphen"/>cellencies.</p>
+            <p>During this Receſs, the <hi>Swedes</hi> and <hi>Daniſh</hi> Ambaſſadors went unto the <hi>Hague,</hi> and ſo did Monſieur <hi>Beverningk,</hi> and Mon<g ref="char:EOLhyphen"/>ſieur. <hi>Huybert,</hi> two of the <hi>Dutch</hi> Am<g ref="char:EOLhyphen"/>baſſadors, Monſieur <hi>Jongeſtal</hi> remaining at <hi>Breda.</hi>
+            </p>
+            <p>
+               <hi>Aug.</hi> 2. The Honorable Sir <hi>John Coventry</hi> arrived at <hi>Breda;</hi> being returned from <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with great dispatch.</p>
+            <p>After the return of Sir <hi>John Coventrie</hi> to <hi>Breda,</hi> the <hi>French, Swediſh</hi> and <hi>Dauiſh</hi> Am<g ref="char:EOLhyphen"/>baſſadors, and Plenipotentiaries returned al<g ref="char:EOLhyphen"/>ſo to <hi>Breda;</hi> and there alſo returned Monſieut <hi>Beverningk</hi> and Monſieur <hi>d'Huybert,</hi> two of the <hi>Dutch</hi> Plenipotentiaries, and with them came two other deputed for the Signing
+<pb n="22" facs="tcp:59760:12"/>with more Solemnity, ſo that there were five of the <hi>Dutch</hi> Plenipotentiaries to attend and receive the exchange of the Ratificati<g ref="char:EOLhyphen"/>ons of the Peace.</p>
+            <p>
+               <hi>Aug.</hi> 11. The <hi>French</hi> Ambaſſadors gave their Excellencies a viſit.</p>
+            <p>
+               <hi>Aug.</hi> 13. All the reſpective Ambaſſadors and Plenipotentiaries went to their ſeveral Appartments in the Caſtle about five of the clock in the afternoon, and remained there until ſeven, and adviſed one the other re<g ref="char:EOLhyphen"/>ſpectively with the Returns of the Ratifi<g ref="char:EOLhyphen"/>cations from the reſpective Princes, and up<g ref="char:EOLhyphen"/>on the deliberation of the whole matter, ap<g ref="char:EOLhyphen"/>pointed a meeting the next day for the Ex<g ref="char:EOLhyphen"/>change of the Ratifications.</p>
+            <p>
+               <hi>Aug.</hi> 14. All the reſpective Ambaſſadors and Plenipotentiaries went at Eleven of the clock to the <hi>Caſtle,</hi> where they all met in one great Room, and after many Con<g ref="char:EOLhyphen"/>gratulations of Joy and Reſpect, they Ex<g ref="char:EOLhyphen"/>changed the Ratifications, and thereupon all the Guns of the Caſtle were ſhot off, and ſo from Fort to Fort round the Town;
+<pb n="23" facs="tcp:59760:12"/>all the Forces of the Garriſon being in Arms in the Streets, the Drums beating, Trumpets founding, Colours flying, Guns ſhooting, and all Declarations of Joy through the whole Town; there being a great confluence of People from all parts of the <hi>Dutch Ne<g ref="char:EOLhyphen"/>therlands.</hi> And it was agreed by the Am<g ref="char:EOLhyphen"/>baſſadors and Plenipotentiaries before they came out of the Caſtle, that at four of the clock that afternoon the Peace ſhould be proclaimed before the Pallaces of the re<g ref="char:EOLhyphen"/>ſpective Ambaſſadors and Plempotentiaries.</p>
+            <p>This day their Excellencies dined with Monfieur <hi>d'Eſtrade</hi> one of the <hi>French</hi> Am<g ref="char:EOLhyphen"/>baſſadors.</p>
+            <p>At four of the clock in the afternoon, all the Gentlemen attending the Ambaſſy, and all the Servants of their Excellencies were Marſhall'd by Sir <hi>George Charnock</hi> Marſhal to the Ambaſſy, and drawn out of the Gates of their Excellencies Pallace, with his Majeſties Trumpets ſounding before them, and walked the whole length of the ground before the Pallace, and being brought
+<pb n="24" facs="tcp:59760:13"/>into a round and cloſe Order before the mid<g ref="char:EOLhyphen"/>dle windows of the Pallace, their Excellen<g ref="char:EOLhyphen"/>cies were ſeated at the Window in Chairs of State, with velvet Cuſhions before them, and Tapeſtry hangings adorning the outſide of the windows, and multitudes of the <hi>Dutch</hi> Nation attending to ſee the Solemnitie: The Peace was proclaimed with <hi>France, Denmark</hi> and <hi>Holland,</hi> Doctor <hi>William Howel</hi> Doctor of the Laws, who went over with their Excellencies, a Perſon in much Honor and Eſteem with them for his Learn<g ref="char:EOLhyphen"/>ing and great Services in the Ambaſſy, read<g ref="char:EOLhyphen"/>ing the Proclamations, and Mr. <hi>Lawrence Loe</hi> aloud pronouncing the ſame after him, and at the end of every Proclamation the Trumpets ſounding, ſeveral Flouriſhes and great Rejoycings amongſt all the People.</p>
+            <p>After the ſaid Proclamations, all the Gen<g ref="char:EOLhyphen"/>tlemen returned into the Ambaſſadors Pa<g ref="char:EOLhyphen"/>lace where ſeveral hogsheads of Wine be<g ref="char:EOLhyphen"/>ing let run at waſte, the People with a great Joy and Gladneſs received the ſame.</p>
+            <pb n="25" facs="tcp:59760:13"/>
+            <p>The <hi>French</hi> Ambaſſadors and <hi>Danes</hi> made the like Proclamations before their Palaces reſpectively, and the <hi>Dutch</hi> Pleni<g ref="char:EOLhyphen"/>potentiaries before the Stadthouſe.</p>
+            <p>Night coming on, all the windows of the Palace of their Excellencies fronting to<g ref="char:EOLhyphen"/>wards the ſtreet, were ſet with ſeveral rows of Candles lighted, in a very great num<g ref="char:EOLhyphen"/>ber,</p>
+            <p>About ſeven of the clock that evening, their Excellencies went to the <hi>Stadthouſe</hi> whither they were invited to a Banquet, and there met all the Ambaſſadors and Plenipotentiaries: Alſo were preſent the Magiſtrates and chief Perſons of the Town, with many other Perſons of Quality and their Ladies: In the Room was placed a large round Table, where after a handſome Treat of all Fowl the ſeaſon afforded, they were entertained with a noble Ban<g ref="char:EOLhyphen"/>quet.</p>
+            <p>In the ſtreet before the ſaid Stadthouſe was erected a large Scaffold, on which
+<pb n="26" facs="tcp:59760:14"/>were ſeveral Figures ſerving to artificial Fireworks; all performed by an excellent Engineer.</p>
+            <p>At each end of the Scaffold were erect<g ref="char:EOLhyphen"/>ed four Structures in equal diſtances from the Scaffold, about ſixteen foot high, each Structure full of Arms with burning Flam<g ref="char:EOLhyphen"/>beaux.</p>
+            <p>The Fireworks continued, and the Flam<g ref="char:EOLhyphen"/>beaux were burning; the ſtreets full of Horſe and Foot, Trumpets ſounding, Drums beating, and Colours flying, for the moſt part of the night; all the windows of the Houſes full of People; great accla<g ref="char:EOLhyphen"/>mations and demonſtrations of Joy through the whole Town.</p>
+            <p>
+               <hi>Aug.</hi> 15. During the time of the Treaty, the Ambaſſadors had received very good Teſtimony of the Pious endeavours uſed by Mr. <hi>Erneſt,</hi> Mr. <hi>Halſins</hi> and Mr. <hi>Planet;</hi> three Miniſters in <hi>Breda,</hi> both in their <hi>Fray<g ref="char:EOLhyphen"/>ers</hi> in publique and otherwiſe for Gods bleſſing upon the Treaty for a Peace and
+<pb n="27" facs="tcp:59760:14"/>happy Union betwixt the two Nations. The ſaid Mr. <hi>Erneſt</hi> and Mr. <hi>Plance</hi> being alſo Profeſſors in the Schools at <hi>Breda;</hi> and themupon their Excellencies were pleaſed to ſignifie to the Lord Chancellor of the Univerſitie of <hi>Oxford</hi> their reſpective Merits, and obtained of his Lordſhip three Diploma's from that Univerſity, whereby they received as Rewards of their good af<g ref="char:EOLhyphen"/>fection the Degrees of Doctors in Divini<g ref="char:EOLhyphen"/>ty. And on this day the Ambaſſadors being in a great Room of their Palace, and ſeated in two Chairs at the upper end of a Table in the ſaid Room; the Gentlemen of the Ambaſſy attending about them in the Room; the ſaid three Miniſters were in<g ref="char:EOLhyphen"/>troduced into the Room by Doctor <hi>Mew</hi> Doctor in Divinity, and Freſident of St. <hi>Johns</hi> Colledge in <hi>Oxford;</hi> a perſon who hath morated much by the ſeveral good offices of Prudence, Induſtry and Piety, which he hath eminently diſcharged in the ſervice of Chaplain to their Excel<g ref="char:EOLhyphen"/>lencies;
+<pb n="28" facs="tcp:59760:15"/>and after a conciſe and eloquent Latine Speech by him made for that occa<g ref="char:EOLhyphen"/>ſion, the Condition of the perſons receiving that Honour, the Renown of the Univer<g ref="char:EOLhyphen"/>ſity his Mother, and the Dignity of their Excellencies, and the ſaid Miniſters return of thanks for the Honour; Doctor <hi>Mew</hi> delivered the ſaid Diploma's unto them re<g ref="char:EOLhyphen"/>ſpectively.</p>
+            <p>
+               <hi>Aug.</hi> 27. Their Excellencies diſpached Sir <hi>George Charnock,</hi> with expreſſes unto his Majeſty of the Exchange of the Rati<g ref="char:EOLhyphen"/>fications, and of Proclaiming of the Peace, and ſeveral publications of the ſame. And the ſaid Sir <hi>George</hi> coming to <hi>Middleburgh,</hi> was very civily treated by the Preſident of the Admiralty, and had a Warrant to one of the States Men of War, then at <hi>Tervere,</hi> who lay ready to tranſport him for <hi>England,</hi> the Ship being by the States Order well fur<g ref="char:EOLhyphen"/>niſhed with Proviſions for his entertainment in his paſſage; and Sir <hi>George</hi> embarquing, took into her alſo many <hi>Engliſh</hi> Priſo<g ref="char:EOLhyphen"/>ners,
+<pb n="29" facs="tcp:59760:15"/>and came to the <hi>North-foreland</hi> where were riding the Vice-Admiral of <hi>North-Holland,</hi> with about four <hi>Dutch-men</hi> of War.; to whom Sir <hi>George</hi> gave notice of the Proclamations of the Peace: At which the Vice-Admiral expreſſed much joy, and ſo did all the Seamen with very great Shouts and Acclamations, and then ſhot off many Guns; and immediately after hung up their blew Flag, weighed Anchor, and went away.</p>
+            <p>Sir <hi>George</hi> landed at <hi>Margett,</hi> and there took Poſt-horſe immediately for <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Aug.</hi> 23. Very early in the morning he came to <hi>Whitehall,</hi> and in diſcharge of his Duty delivered his Expreſſes.</p>
+            <p>
+               <hi>Aug.</hi> 24. By His Majeſties ſpecial Com<g ref="char:EOLhyphen"/>mand, the Peace with the <hi>French, Dane</hi> and <hi>Dutch</hi> was Proclaimed by three ſeveral Proclamations, at the Court Gate, and at the uſual places in the City of <hi>London,</hi> by the Heraulds, Serjeants at Armes, with the Trumpets, and other Officers attending.
+<pb n="30" facs="tcp:59760:16"/>The Right Honourable the Lord Major and Aldermen of the City of <hi>London,</hi> wait<g ref="char:EOLhyphen"/>ing alſo upon the publication of the ſame from <hi>Temple-Bar</hi> through the City unto <hi>Biſhopſgate-ſtreet,</hi> to <hi>Greſham-houſe</hi> the pre<g ref="char:EOLhyphen"/>ſent Exchange, where the laſt Publications and Proclamations were made.</p>
+            <p>During the time after the diſpatch of the formentioned Publications, there paſ<g ref="char:EOLhyphen"/>ſed diverſe Invitations and Entertainments betwixt the ſeveral Ambaſſadors, while they remained, till His Majeſties Fregats, the <hi>Portland</hi> and the <hi>Reſerve,</hi> arriving at <hi>Fluſh<g ref="char:EOLhyphen"/>ing</hi> for their Excellencies reconveyance into <hi>England,</hi> they took their journey from <hi>Breda</hi> thither accordingly, being by the way very earneſtly importuned to receive a Treat from the States at <hi>Middleburgh;</hi> which in regard of the haſte they deſir'd to make in returning to his Majeſties farther ſervice, they excuſed themſelves from ſtay<g ref="char:EOLhyphen"/>ing to accept of, coming after on board their Fregats. They ſet ſayl from before <hi>Fluſh<g ref="char:EOLhyphen"/>ing</hi>
+               <pb n="31" facs="tcp:59760:16"/>on <hi>Monday</hi> morning <hi>September</hi> the 9<hi rend="sup">th</hi>, and quitting the Fregats before <hi>Graveſend,</hi> they entred there into Barges ſent down expreſs by His Majeſty, and arrived at <hi>Whitehall</hi> on <hi>Friday</hi> the 13<hi rend="sup">th</hi> in the Af<g ref="char:EOLhyphen"/>ternoon, where they were moſt graciouſly received by His Majeſty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
